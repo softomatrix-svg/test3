@@ -1,0 +1,21 @@
+{
+  "projectName": "test3",
+  "cleanedName": "test3",
+  "github": {
+    "owner": "softomatrix-svg",
+    "repo": "test3",
+    "fullName": "softomatrix-svg/test3",
+    "visibility": "public",
+    "isOrganization": false,
+    "isNew": true
+  },
+  "vercel": {
+    "projectId": "prj_53n7Jg2Efu0pQaJWrFaUpwVlrkSS",
+    "projectName": "test3",
+    "scope": "personal",
+    "scopeId": "team_P0dOPYPpolzDOIz4YGlrLTHx",
+    "isNew": true
+  },
+  "linkedAt": "2026-05-03",
+  "status": "ready"
+}
